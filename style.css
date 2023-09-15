@@ -1,0 +1,1093 @@
+.index {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.index .overlap-wrapper {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 1024px;
+}
+
+.index .overlap {
+    position: relative;
+    height: 1024px;
+}
+
+.index .overlap-group {
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    top: 0;
+    left: 0;
+}
+
+.index .background-beige {
+    position: absolute;
+    width: 618px;
+    height: 1024px;
+    top: 0;
+    left: 0;
+    background-color: #eadbc8;
+}
+
+.index .rectangulo-principal {
+    position: absolute;
+    width: 570px;
+    height: 732px;
+    top: 223px;
+    left: 172px;
+    background-color: #f8f0e5;
+    border-radius: 53px;
+    box-shadow: 0px 4px 9px 6px #00000040;
+}
+
+.index .semirectangulo {
+    position: absolute;
+    width: 570px;
+    height: 112px;
+    top: 842px;
+    left: 172px;
+    background-color: #ffffff;
+    border-radius: 52px;
+    transform: rotate(0.15deg);
+}
+
+.index .rectangulo {
+    position: absolute;
+    width: 569px;
+    height: 56px;
+    top: 830px;
+    left: 172px;
+    background-color: #ffffff;
+}
+
+.index .logo-uade {
+    position: absolute;
+    width: 320px;
+    height: 88px;
+    top: 852px;
+    left: 306px;
+    object-fit: cover;
+}
+
+.index .foto-cv {
+    position: absolute;
+    width: 290px;
+    height: 279px;
+    top: 276px;
+    left: 317px;
+    background-color: #0f2c59;
+    border-radius: 145px/139.5px;
+}
+
+.index .text-wrapper {
+    position: absolute;
+    width: 337px;
+    top: 577px;
+    left: 289px;
+    font-family: 'DM Serif Text', serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.index .linea {
+    position: absolute;
+    width: 92px;
+    height: 3px;
+    top: 662px;
+    left: 415px;
+}
+
+.index .descripcion {
+    position: absolute;
+    width: 506px;
+    top: 713px;
+    left: 215px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    color: #000000;
+    font-size: 27px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.index .rectangulo-superior {
+    position: absolute;
+    width: 1440px;
+    height: 129px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+}
+
+.index .aylen-lee-ESTUDIANTE {
+    position: absolute;
+    width: 396px;
+    top: 37px;
+    left: 60px;
+    font-family: 'DM Serif text', serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 37px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    top: -2px;
+}
+
+.index .span {
+    font-family: 'DM Serif Text', serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 37px;
+    letter-spacing: 0;
+}
+
+.index .text-wrapper-2 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 32px;
+}
+
+.index .text-wrapper-3 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 27px;
+}
+
+.index .cuadradosuperior {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 52px;
+    left: 48px;
+    background-color: #0f2c59;
+    transform: rotate(45.02deg);
+}
+
+.index .div {
+    position: absolute;
+    width: 229px;
+    top: 40px;
+    left: 764px;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    color: #000000;
+    font-size: 27px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.index .text-wrapper-4 {
+    position: absolute;
+    width: 229px;
+    top: 40px;
+    left: 971px;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    color: #000000;
+    font-size: 27px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.index .text-wrapper-5 {
+    position: absolute;
+    width: 229px;
+    top: 40px;
+    left: 1193px;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    color: #000000;
+    font-size: 27px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.index .flexcontainer {
+    top: 474px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1px;
+    position: absolute;
+    width: 499px;
+    height: 80px;
+    left: 797px;
+}
+
+.index .text {
+    position: relative;
+    align-self: stretch;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.index .text-wrapper-6 {
+    font-weight: 700;
+}
+
+.index .text-wrapper-7 {
+    font-family: "DM Sans", sans-serif;
+    font-size: 28px;
+    text-align: right;
+    margin-left: 300px;
+    position: relative;
+    top: -110px
+}
+
+.index .flexcontainer-2 {
+    top: 575px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1px;
+    position: absolute;
+    width: 499px;
+    height: 80px;
+    left: 797px;
+}
+
+.index .flexcontainer-3 {
+    top: 676px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1px;
+    position: absolute;
+    width: 499px;
+    height: 80px;
+    left: 797px;
+}
+
+.index .flexcontainer-4 {
+    top: 777px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1px;
+    position: absolute;
+    width: 499px;
+    height: 80px;
+    left: 797px;
+}
+
+.index .overlap-2 {
+    position: absolute;
+    width: 450px;
+    height: 129px;
+    top: 319px;
+    left: 794px;
+}
+
+.index .text-wrapper-8 {
+    position: absolute;
+    width: 450px;
+    top: 0;
+    left: 0;
+    font-family: 'DM Serif Text', serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 60px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.index .img {
+    position: absolute;
+    width: 131px;
+    height: 3px;
+    top: 104px;
+    left: 1px;
+}
+
+.estudios {
+    background-color: #f8f0e5;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.estudios .div {
+    background-color: #f8f0e5;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+}
+
+.estudios .text-wrapper {
+    position: absolute;
+    width: 693px;
+    top: 177px;
+    left: 373px;
+    font-family: 'DM Serif Text', serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 96px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.estudios .overlap {
+    position: absolute;
+    width: 1440px;
+    height: 129px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+}
+
+.estudios .overlap-group {
+    position: absolute;
+    width: 408px;
+    height: 49px;
+    top: 37px;
+    left: 48px;
+}
+
+.estudios .aylen-lee-ESTUDIANTE {
+    position: absolute;
+    width: 396px;
+    top: 0;
+    left: 12px;
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 37px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    top: -2px;
+}
+
+.estudios .span {
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 37px;
+    letter-spacing: 0;
+}
+
+.estudios .text-wrapper-2 {
+    font-family: "DM Sans", sans-serif;
+    font-size: 32px;
+}
+
+.estudios .text-wrapper-3 {
+    font-family: "DM Sans", sans-serif;
+    font-size: 27px;
+}
+
+.estudios .cuadradosuperior {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 15px;
+    left: 0;
+    background-color: #0f2c59;
+    transform: rotate(45.02deg);
+}
+
+.estudios .overlap-2 {
+    position: absolute;
+    width: 658px;
+    height: 46px;
+    top: 40px;
+    left: 764px;
+}
+
+.estudios .text-wrapper-4 {
+    position: absolute;
+    width: 229px;
+    top: 0;
+    left: 0;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    color: #000000;
+    font-size: 27px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.estudios .text-wrapper-5 {
+    position: absolute;
+    width: 229px;
+    top: 0;
+    left: 207px;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    color: #000000;
+    font-size: 27px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.estudios .text-wrapper-6 {
+    position: absolute;
+    width: 229px;
+    top: 0;
+    left: 429px;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    color: #000000;
+    font-size: 27px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.estudios .overlap-3 {
+    position: absolute;
+    width: 732px;
+    height: 378px;
+    top: 468px;
+    left: 84px;
+}
+
+.estudios .studyicon {
+    position: absolute;
+    width: 377px;
+    height: 378px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
+
+.estudios .flexcontainer {
+    top: 27px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+    position: absolute;
+    width: 385px;
+    height: 100px;
+    left: 347px;
+}
+
+.estudios .text {
+    position: relative;
+    align-self: stretch;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.estudios .text-wrapper-7 {
+    font-weight: 700;
+}
+
+.estudios .text-wrapper-8 {
+    font-family: "DM Sans", sans-serif;
+    font-size: 30px;
+}
+
+.estudios .flexcontainer-2 {
+    top: 244px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+    position: absolute;
+    width: 385px;
+    height: 100px;
+    left: 347px;
+}
+
+.estudios .p {
+    position: absolute;
+    width: 457px;
+    top: 499px;
+    left: 897px;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 31px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.estudios .text-wrapper-9 {
+    position: absolute;
+    width: 457px;
+    top: 715px;
+    left: 897px;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 31px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.estudios .group {
+    position: absolute;
+    width: 29px;
+    height: 439px;
+    top: 451px;
+    left: 842px;
+}
+
+.estudios .overlap-group-2 {
+    position: relative;
+    height: 439px;
+}
+
+.estudios .line {
+    position: absolute;
+    width: 4px;
+    height: 425px;
+    top: 0;
+    left: 14px;
+}
+
+.estudios .ellipse {
+    top: 0;
+    left: 2px;
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    background-color: #0f2c59;
+    border-radius: 13.5px;
+}
+
+.estudios .ellipse-2 {
+    top: 206px;
+    left: 2px;
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    background-color: #0f2c59;
+    border-radius: 13.5px;
+}
+
+.estudios .ellipse-3 {
+    top: 412px;
+    left: 0;
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    background-color: #0f2c59;
+    border-radius: 13.5px;
+}
+
+.conocimientos {
+    background-color: #f8f0e5;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.conocimientos .div {
+    background-color: #f8f0e5;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+}
+
+.conocimientos .overlap {
+    position: absolute;
+    width: 1440px;
+    height: 129px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+}
+
+.conocimientos .overlap-group {
+    position: absolute;
+    width: 408px;
+    height: 49px;
+    top: 37px;
+    left: 48px;
+}
+
+.conocimientos .aylen-lee-ESTUDIANTE {
+    position: absolute;
+    width: 396px;
+    top: 0;
+    left: 12px;
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 37px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.conocimientos .text-wrapper {
+    font-family: 'DM Serif Text', serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 37px;
+    letter-spacing: 0;
+}
+
+.conocimientos .span {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 32px;
+}
+
+.conocimientos .text-wrapper-2 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 27px;
+}
+
+.conocimientos .cuadradosuperior {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 15px;
+    left: 0;
+    background-color: #0f2c59;
+    transform: rotate(45.02deg);
+}
+
+.conocimientos .overlap-2 {
+    position: absolute;
+    width: 603px;
+    height: 46px;
+    top: 40px;
+    left: 819px;
+}
+
+.conocimientos .text-wrapper-3 {
+    position: absolute;
+    width: 229px;
+    top: 0;
+    left: 0;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    color: #000000;
+    font-size: 27px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.conocimientos .text-wrapper-4 {
+    position: absolute;
+    width: 229px;
+    top: 0;
+    left: 171px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    color: #000000;
+    font-size: 27px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.conocimientos .text-wrapper-5 {
+    position: absolute;
+    width: 229px;
+    top: 0;
+    left: 374px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    color: #000000;
+    font-size: 27px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.conocimientos .text-wrapper-6 {
+    position: absolute;
+    width: 693px;
+    top: 168px;
+    left: 373px;
+    font-family: 'DM Serif Text', serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 96px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.conocimientos .skillsicon {
+    position: absolute;
+    width: 353px;
+    height: 389px;
+    top: 459px;
+    left: 68px;
+    object-fit: cover;
+}
+
+.conocimientos .rectangle-wrapper {
+    position: absolute;
+    width: 522px;
+    height: 24px;
+    top: 441px;
+    left: 725px;
+    background-color: #eadbc8;
+    border-radius: 48px;
+}
+
+.conocimientos .rectangle {
+    width: 211px;
+    height: 24px;
+    background-color: #0f2c59;
+    border-radius: 48px;
+}
+
+.conocimientos .div-wrapper {
+    position: absolute;
+    width: 522px;
+    height: 24px;
+    top: 512px;
+    left: 725px;
+    background-color: #eadbc8;
+    border-radius: 48px;
+}
+
+.conocimientos .rectangle-2 {
+    width: 175px;
+    height: 24px;
+    background-color: #0f2c59;
+    border-radius: 48px;
+}
+
+.conocimientos .overlap-group-2 {
+    position: absolute;
+    width: 522px;
+    height: 24px;
+    top: 584px;
+    left: 725px;
+    background-color: #eadbc8;
+    border-radius: 48px;
+}
+
+.conocimientos .rectangle-3 {
+    width: 494px;
+    height: 24px;
+    background-color: #0f2c59;
+    border-radius: 48px;
+}
+
+.conocimientos .overlap-3 {
+    position: absolute;
+    width: 522px;
+    height: 24px;
+    top: 656px;
+    left: 725px;
+    background-color: #eadbc8;
+    border-radius: 48px;
+}
+
+.conocimientos .rectangle-4 {
+    width: 312px;
+    height: 24px;
+    background-color: #0f2c59;
+    border-radius: 48px;
+}
+
+.conocimientos .overlap-4 {
+    position: absolute;
+    width: 522px;
+    height: 24px;
+    top: 779px;
+    left: 725px;
+    background-color: #eadbc8;
+    border-radius: 48px;
+}
+
+.conocimientos .rectangle-5 {
+    height: 24px;
+    background-color: #0f2c59;
+    border-radius: 48px;
+}
+
+.conocimientos .overlap-5 {
+    position: absolute;
+    width: 522px;
+    height: 24px;
+    top: 851px;
+    left: 725px;
+    background-color: #eadbc8;
+    border-radius: 48px;
+}
+
+.conocimientos .linea {
+    position: absolute;
+    width: 131px;
+    height: 3px;
+    top: 728px;
+    left: 489px;
+}
+
+.conocimientos .HTML-CSS {
+    position: absolute;
+    top: 433px;
+    left: 489px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.conocimientos .text-wrapper-7 {
+    position: absolute;
+    top: 503px;
+    left: 489px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.conocimientos .text-wrapper-8 {
+    position: absolute;
+    top: 574px;
+    left: 489px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.conocimientos .text-wrapper-9 {
+    position: absolute;
+    top: 644px;
+    left: 489px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.conocimientos .text-wrapper-10 {
+    position: absolute;
+    top: 773px;
+    left: 489px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.conocimientos .text-wrapper-11 {
+    position: absolute;
+    top: 842px;
+    left: 489px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.experiencia {
+    background-color: #f8f0e5;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.experiencia .div {
+    background-color: #f8f0e5;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+}
+
+.experiencia .overlap {
+    position: absolute;
+    width: 1440px;
+    height: 129px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+}
+
+.experiencia .overlap-group {
+    position: absolute;
+    width: 408px;
+    height: 49px;
+    top: 37px;
+    left: 48px;
+}
+
+.experiencia .aylen-lee-ESTUDIANTE {
+    position: absolute;
+    width: 396px;
+    top: 0;
+    left: 12px;
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 37px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.experiencia .text-wrapper {
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 37px;
+    letter-spacing: 0;
+}
+
+.experiencia .span {
+    font-family: "DM Sans", sans-serif;
+    font-size: 32px;
+}
+
+.experiencia .text-wrapper-2 {
+    font-family: "DM Sans", sans-serif;
+    font-size: 27px;
+}
+
+.experiencia .cuadradosuperior {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 15px;
+    left: 0;
+    background-color: #0f2c59;
+    transform: rotate(45.02deg);
+}
+
+.experiencia .overlap-2 {
+    position: absolute;
+    width: 623px;
+    height: 46px;
+    top: 40px;
+    left: 775px;
+}
+
+.experiencia .text-wrapper-3 {
+    position: absolute;
+    width: 229px;
+    top: 0;
+    left: 0;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    color: #000000;
+    font-size: 27px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.experiencia .text-wrapper-4 {
+    position: absolute;
+    width: 229px;
+    top: 0;
+    left: 394px;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    color: #000000;
+    font-size: 27px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.experiencia .text-wrapper-5 {
+    position: absolute;
+    width: 229px;
+    top: 0;
+    left: 174px;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    color: #000000;
+    font-size: 27px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.experiencia .div-wrapper {
+    position: absolute;
+    width: 705px;
+    height: 410px;
+    top: 456px;
+    left: 353px;
+    background-image: url(./img/Rectangle\ 18.png);
+    background-size: 100% 100%;
+}
+
+.experiencia .text-wrapper-6 {
+    position: absolute;
+    width: 391px;
+    top: 178px;
+    left: 143px;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.experiencia .text-wrapper-7 {
+    position: absolute;
+    width: 973px;
+    top: 184px;
+    left: 219px;
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 96px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
